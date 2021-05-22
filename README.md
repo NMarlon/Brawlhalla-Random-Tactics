@@ -3,10 +3,10 @@
 
 # INSTRUÇÕES
 1. Baixe e Instale o Python em: https://www.python.org/downloads/
-2. Baixe e abra o arquivo: brawlhalla_random.py nesse Git  
-E PRONTO!
+2. Abra o arquivo: brawlhalla_random.py desse Gi #O máximo por linhat 
+PRONTO!
 
-## Você também pode editar as variáveis:
+Você também pode editar as variáveis:
 
 - num_caracteres_max = inteiro #Ajusta o número de caracteres à mostrar por palavra
 - ataques,combinadores,tecnica = array de strings #Listas com os ataques, suas combinações e táticas. *Fique à vontade* para acrescentar ou deletar componentes de qualquer um dessas listas
@@ -22,4 +22,4 @@ E PRONTO!
 
 
 
-Mais info no meu blog: https://marlonrviana.blogspot.com/2021/05/brawlhalla-game-programa-para-treino.html
+Veja também informações no meu blog: https://marlonrviana.blogspot.com/2021/05/brawlhalla-game-programa-para-treino.html
