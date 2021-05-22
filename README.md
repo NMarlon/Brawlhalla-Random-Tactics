@@ -3,8 +3,8 @@
 
 # INSTRUÇÕES
 1. Baixe e Instale o Python em: https://www.python.org/downloads/
-2. Abra o arquivo: brawlhalla_random.py desse Gi #O máximo por linhat 
-PRONTO!
+2. Baixe e abra o arquivo: brawlhalla_random.py nesse Git  
+E PRONTO!
 
 ## Você também pode editar as variáveis:
 
