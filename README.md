@@ -28,6 +28,6 @@ Veja também informações no meu blog: https://marlonrviana.blogspot.com/2021/0
 
 # BUGS
 1. Se houver quebra de linha não intencional como: 
-1.1.![image](https://user-images.githubusercontent.com/43282318/119597386-4b9a4b80-bdb7-11eb-99bb-4e37e7ce8094.png) 
+1.1. ![image](https://user-images.githubusercontent.com/43282318/119597386-4b9a4b80-bdb7-11eb-99bb-4e37e7ce8094.png) 
 1.2. diminua: contador_max=5 para algo menor 
 
