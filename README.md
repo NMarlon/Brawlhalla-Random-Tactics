@@ -2,7 +2,7 @@
  Um mostrador de movimentos e táticas do Brawlhalla
 
 # INSTRUÇÕES
-(**SE QUISER SOMENTE TESTAR: Acesse o link: https://replit.com/languages/python3 e cole o código de brawlhalla_random.py desse Git lá**)
+(**VEJA O PROGRAMA FUNCIONANDO AQUI nesse link: https://replit.com/@MarlonRViana/Brawlhallarandomtatics?v=1 **)
 
 1. Baixe e Instale o Python em: https://www.python.org/downloads/
 2. Abra o arquivo: brawlhalla_random.py desse Git  
