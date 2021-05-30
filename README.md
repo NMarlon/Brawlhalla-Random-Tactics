@@ -22,8 +22,9 @@ Você também pode editar as variáveis:
      - Atk (atacar): focar em ataque
      - Def (Defensiva): tomar a defensiva, evitar levar dano
      - Trp (Trap): Ficar parado e esperar ou esquivar o ataque do oponente para só então contra-atacá-lo
+     - *Você pode colocar as táticas que quer experimentar durante a batalha* ou você pode ocultar esse recurso na *variável* "show"
 
-- show = array de booleano  #Oculta alguma das listas
+- show = array de booleano  #Oculta alguma das listas (respectivamente ataques,combinadores ou tecnicas)
 - mostrar_divisor = boleano #Oculta a linha divisora
 - contador_max = inteiro #O número componentes por linha
 - tempo_por_linha = inteiro #O tempo entre cada linha
