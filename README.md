@@ -19,9 +19,9 @@ Você também pode editar as variáveis:
     -  Veja no Reddit sobre os nomes oficiais: https://www.reddit.com/r/Brawlhalla/comments/a82bdz/what_do_nsig_etc_mean/
   -  -> (), V (seta baixo), J (Jump/Pulo), " " (neutro)  são combinadores, você pode substituí-los no início do arquivo brawlhalla_random.py pelos oficiais: N (Neutral), S (Side), D (Down).
   -  Tecnica são apenas táticas individuais que EU uso, 
-    - Atk (atacar): focar em ataque
-    - Def (Defensiva): tomar a defensiva, evitar levar dano
-    - Trp (Trap): Ficar parado e esperar ou esquivar o ataque do oponente para só então contra-atacá-lo
+     - Atk (atacar): focar em ataque
+     - Def (Defensiva): tomar a defensiva, evitar levar dano
+     - Trp (Trap): Ficar parado e esperar ou esquivar o ataque do oponente para só então contra-atacá-lo
 
 - show = array de booleano  #Oculta alguma das listas
 - mostrar_divisor = boleano #Oculta a linha divisora
