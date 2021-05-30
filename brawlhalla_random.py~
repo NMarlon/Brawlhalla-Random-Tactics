@@ -1,5 +1,10 @@
 
 #=== COLOQUE AQUI OS VALORES QUE PREFERIR 
+num_caracteres_max=3 #no ataque, combinador e tecnica, delimita o número de caracteres para um número padrão. (SE PASSAR IRÁ CORTAR)
+tempo_por_linha=4#EM SEGUNDOS
+ataques = ["  C","  X","  Z"]
+combinadores = ["->","V","J", "A" ] 
+tecnica = ["Atk", "Bck", "Trp"]
 
 show=[True,True,True]#mostrar ou ocultar os Ataques, Combinadores ou tecnicas respectivamente (False para esconder, True para mostrar)
 
@@ -9,7 +14,6 @@ contador_max=4 #O máximo por linha
 
 
 
-tempo_por_linha=1#EM SEGUNDOS
 
 #=== VISUAL ===
 pular_linhas_num=0# PULO DE LINHAS, quantas linhas vai pular (deixe 0 para não pular linha, (Padrão: 0))
@@ -128,6 +132,6 @@ while True:
 			j+=1
 	
 		
-#ABOUT (SOBRE): 
+#ABOUT: 
 #https://marlonrviana.blogspot.com/2021/05/brawlhalla-game-programa-para-treino.html
 	
