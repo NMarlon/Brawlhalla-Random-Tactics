@@ -17,7 +17,7 @@ Você também pode editar as variáveis:
 - **ataques,combinadores,tecnica** = array de strings #Listas com os ataques, suas combinações e táticas. *Fique à vontade* para acrescentar ou deletar componentes de qualquer um dessas listas
   - Z, X e C são teclas do teclado, você pode substituí-las pelos oficiais Sig (Signature / Heavy attack), Light (Light attack), Rec (Recovery). 
     -  Veja no Reddit sobre os nomes oficiais: https://www.reddit.com/r/Brawlhalla/comments/a82bdz/what_do_nsig_etc_mean/
-  -  -> (), V (seta baixo), J (Jump/Pulo), " " (neutro)  são combinadores, você pode substituí-los no início do arquivo brawlhalla_random.py pelos oficiais: N (Neutral), S (Side), D (Down).
+  -  -> (Lateral), V (seta baixo), J (Jump/Pulo), " " (neutro)  são combinadores, você pode substituí-los no início do arquivo brawlhalla_random.py pelos oficiais: N (Neutral), S (Side), D (Down).
   -  Tecnica são apenas táticas individuais que EU uso, 
      - Atk (atacar): focar em ataque
      - Def (Defensiva): tomar a defensiva, evitar levar dano
